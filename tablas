@@ -1,0 +1,88 @@
+CONFIGURACION
+    pais
+    provincia
+    distrito
+    direccion
+    correo tipo
+    telefono operador
+    telefono tipo
+    telefono uso
+    moneda
+    tipo de cambio
+    bancos
+    cuenta tipo
+    empresa tipo
+    sexo
+    estado civil
+    procedimientos
+
+AUTH
+    usuario
+    roles
+    permisos
+
+CONTACTOS
+    empresas
+    personas
+    direcciones
+    correos
+    telefonos
+    vehiculo
+
+VENTAS
+    requerimientos
+    cotizaciones
+    ordenes
+    facturas
+    guias
+
+COMPRAS
+    requerimientos
+    cotizaciones
+    ordenes
+    facturas
+    guias
+
+ALMACEN
+    stock
+        insumo
+        cliente
+        producto
+    guias de entrada
+    guias salida
+    pedido de compra
+
+TRABAJOS
+    trabajos
+    procedimiento_modelo
+    problemas
+    orden de trabajo
+    pedido de stock
+
+CONTABILIDAD
+    detracciones
+    retenciones    
+    balances
+    pagos
+
+
+FINANZAS
+    cheques
+    pagos
+    partidas
+    cuentas
+    caja
+
+RECURSOS HUMANOS
+    planilla
+    derecho habientes
+    seguros
+
+
+-------------
+static
+    constitucion
+    copia literal
+    municipalidad
+    defensa civil
+
